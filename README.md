@@ -63,7 +63,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-* **Glauco Oliveira** - *Trabalho amigo secreto* - [glaucoo](https://github.com/glaucoo/amigo_secreto)
+* **Glauco Oliveira** - *Trabalho amigo secreto* - [glaucoo](https://github.com/glacoo)
 
 ## 🙏 Agradecimentos
 
