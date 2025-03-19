@@ -26,14 +26,9 @@ O projeto utiliza uma interface moderna e limpa, com:
 
 ## 🚀 Como Usar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
-```
+1. Abra o arquivo `index.html` em seu navegador
 
-2. Abra o arquivo `index.html` em seu navegador
-
-3. Para realizar o sorteio:
+2. Para realizar o sorteio:
    - Digite o nome de um participante no campo de texto
    - Clique em "Adicionar" para incluir na lista
    - Repita o processo para adicionar todos os participantes
